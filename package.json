@@ -1,0 +1,23 @@
+{
+  "name": "chef-lang",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the esoteric language Chef",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chuzzy/chef-lang.git"
+  },
+  "keywords": [
+    "chef",
+    "esolang"
+  ],
+  "author": "Chuzzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chuzzy/chef-lang/issues"
+  },
+  "homepage": "https://github.com/Chuzzy/chef-lang#readme"
+}

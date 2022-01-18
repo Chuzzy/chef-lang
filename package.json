@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Chuzzy/chef-lang/issues"
   },
-  "homepage": "https://github.com/Chuzzy/chef-lang#readme"
+  "homepage": "https://github.com/Chuzzy/chef-lang#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
